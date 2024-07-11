@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qt/qml/datamanagement">
+        <file>main.qml</file>
+        <file>SourceHanSansCN-Regular.otf</file>
+    </qresource>
+</RCC>
